@@ -1,0 +1,3 @@
+/Users/qmtxy/CLionProjects/gitcpp/cmake-build-debug/CMakeFiles/gitcpp.dir
+/Users/qmtxy/CLionProjects/gitcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qmtxy/CLionProjects/gitcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
